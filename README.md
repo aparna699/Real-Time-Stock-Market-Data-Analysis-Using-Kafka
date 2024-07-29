@@ -1,5 +1,5 @@
 # Real-Time-Stock-Market-Data-Analysis-Using-Kafka
-A real-time stock market data processing engine
+Designed a scalable solution using Apache Kafka for real-time data ingestion, AWS EC2 for compute resources, and AWS S3 for storage. Integrated AWS Glue Crawler for automated schema discovery and Amazon Athena for serverless querying, enabling efficient analysis and insights into stock market data.
 
 ## Technology Used
 - Programming Language - Python
